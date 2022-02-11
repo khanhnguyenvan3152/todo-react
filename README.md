@@ -1,4 +1,3 @@
-# Getting Started with Create React App
-
+# Simple TodoApp
 [Demo](https://khanhnguyenvan3152.github.io/todo-react/).
 
